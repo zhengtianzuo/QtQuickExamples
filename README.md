@@ -12,3 +12,4 @@ QmlBusyIndicator: Qml自定义等待指示器
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlBusyIndicator/show.gif?raw=true)
 
+QmlCheckBox: Qml自定义复选框
