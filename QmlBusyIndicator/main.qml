@@ -11,8 +11,8 @@ import QtQuick.Layouts 1.0
 
 ApplicationWindow {
     visible: true
-    width: 640
-    height: 480
+    width: 400
+    height: 300
     title: qsTr("Qml自定义等待指示器")
 
     BusyIndicator {
