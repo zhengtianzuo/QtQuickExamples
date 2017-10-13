@@ -17,3 +17,8 @@ QmlCheckBox: Qml自定义复选框
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCheckBox/show.gif?raw=true)
 
+
+QmlDragDrop: Qml拖放
+
+
+
