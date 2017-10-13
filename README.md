@@ -20,5 +20,10 @@ QmlCheckBox: Qml自定义复选框
 
 QmlDragDrop: Qml拖放
 
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlDragDrop/show.gif?raw=true)
 
+
+QmlFace: Qml表情选择框
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFace/show.gif?raw=true)
 

@@ -4,8 +4,10 @@
 #
 #-------------------------------------------------
 
-TEMPLATE = subdirs
-SUBDIRS += QmlBusyIndicator
-SUBDIRS += QmlCheckBox
-SUBDIRS += QmlDragDrop
-SUBDIRS += QmlFace
+QT += qml quick
+
+CONFIG += c++11
+
+SOURCES += main.cpp
+
+RESOURCES += qml.qrc
