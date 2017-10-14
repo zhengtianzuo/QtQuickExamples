@@ -1,6 +1,6 @@
-/*!
+ï»¿/*!
  *@file main.cpp
- *@brief ³ÌĞòÖ÷ÎÄ¼ş
+ *@brief ç¨‹åºä¸»æ–‡ä»¶
  *@version 1.0
  *@section LICENSE Copyright (C) 2003-2103 CamelSoft Corporation
  *@author zhengtianzuo

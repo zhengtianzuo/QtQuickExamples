@@ -1,6 +1,6 @@
-/*!
+ï»¿/*!
  *@file main.qml
- *@brief Ö÷ÎÄ¼þ
+ *@brief ä¸»æ–‡ä»¶
  *@version 1.0
  *@section LICENSE Copyright (C) 2003-2103 CamelSoft Corporation
  *@author zhengtianzuo

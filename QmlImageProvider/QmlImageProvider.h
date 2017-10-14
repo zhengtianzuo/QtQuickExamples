@@ -1,4 +1,4 @@
-/*!
+﻿/*!
  *@file QmlImageProvider.h
  *@brief QmlImageProvider
  *@version 1.0
