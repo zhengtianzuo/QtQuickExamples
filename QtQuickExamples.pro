@@ -10,3 +10,4 @@ SUBDIRS += QmlCheckBox
 SUBDIRS += QmlDragDrop
 SUBDIRS += QmlFace
 SUBDIRS += QmlHyperlink
+SUBDIRS += QmlImageProvider

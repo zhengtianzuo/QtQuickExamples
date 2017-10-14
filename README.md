@@ -32,3 +32,8 @@ QmlHyperlink: Qml超链接
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlHyperlink/show.gif?raw=true)
 
+
+QmlImageProvider: QmlImageProvider
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlImageProvider/show.gif?raw=true)
+
