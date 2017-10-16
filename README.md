@@ -38,7 +38,7 @@ QmlHyperlink: Qml超链接
 
 QmlImageProvider: QmlImageProvider
 
-![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlImageProvider/show.gif?raw=true)
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlImageProvider/show.jpg?raw=true)
 
 
 QmlLog4Qml: Qml写日志
