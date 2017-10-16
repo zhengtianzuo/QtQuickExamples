@@ -11,3 +11,4 @@ SUBDIRS += QmlDragDrop
 SUBDIRS += QmlFace
 SUBDIRS += QmlHyperlink
 SUBDIRS += QmlImageProvider
+SUBDIRS += QmlLog4Qml

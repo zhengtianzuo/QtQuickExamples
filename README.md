@@ -40,3 +40,8 @@ QmlImageProvider: QmlImageProvider
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlImageProvider/show.gif?raw=true)
 
+
+QmlLog4Qml: Qml写日志
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlLog4Qml/show.jpg?raw=true)
+
