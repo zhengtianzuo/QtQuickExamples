@@ -17,5 +17,6 @@ ApplicationWindow {
 
     Component.onCompleted: {
         log4Qml.qDebug_Info(0, "Qml写日志");
+        console.debug("Qml写日志");
     }
 }
