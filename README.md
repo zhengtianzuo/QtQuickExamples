@@ -55,3 +55,8 @@ QmlPopMenu: Qml弹出菜单
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPopMenu/show.gif?raw=true)
 
+
+QmlCircular: Qml圆形图片
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCircular/show.jpg?raw=true)
+
