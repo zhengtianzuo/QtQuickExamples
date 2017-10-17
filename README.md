@@ -48,5 +48,5 @@ QmlLog4Qml: Qml写日志
 
 QmlPlugin: Qml调用插件
 
-![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPluginTest/show.gif?raw=true)
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPlugin/QmlPluginTest/show.gif?raw=true)
 
