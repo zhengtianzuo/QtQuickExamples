@@ -12,3 +12,5 @@ SUBDIRS += QmlFace
 SUBDIRS += QmlHyperlink
 SUBDIRS += QmlImageProvider
 SUBDIRS += QmlLog4Qml
+SUBDIRS += QmlPlugin\QmlPlugin
+SUBDIRS += QmlPlugin\QmlPluginTest

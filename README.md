@@ -45,3 +45,8 @@ QmlLog4Qml: Qml写日志
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlLog4Qml/show.jpg?raw=true)
 
+
+QmlPlugin: Qml调用插件
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPluginTest/show.gif?raw=true)
+
