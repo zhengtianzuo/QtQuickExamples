@@ -14,3 +14,4 @@ SUBDIRS += QmlImageProvider
 SUBDIRS += QmlLog4Qml
 SUBDIRS += QmlPlugin\QmlPlugin
 SUBDIRS += QmlPlugin\QmlPluginTest
+SUBDIRS += QmlPopMenu

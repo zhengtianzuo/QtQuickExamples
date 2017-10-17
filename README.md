@@ -50,3 +50,8 @@ QmlPlugin: Qml调用插件
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPlugin/QmlPluginTest/show.gif?raw=true)
 
+
+QmlPopMenu: Qml弹出菜单
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPopMenu/show.gif?raw=true)
+
