@@ -18,3 +18,4 @@ SUBDIRS += QmlPopMenu
 SUBDIRS += QmlCircular
 SUBDIRS += QmlRotationAnimation
 SUBDIRS += QmlShowSideWindow
+SUBDIRS += QmlSign
