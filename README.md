@@ -60,3 +60,8 @@ QmlCircular: Qml圆形图片
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCircular/show.jpg?raw=true)
 
+
+QmlRotationAnimation: Qml旋转箭头
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlRotationAnimation/show.gif?raw=true)
+

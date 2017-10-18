@@ -16,3 +16,4 @@ SUBDIRS += QmlPlugin\QmlPlugin
 SUBDIRS += QmlPlugin\QmlPluginTest
 SUBDIRS += QmlPopMenu
 SUBDIRS += QmlCircular
+SUBDIRS += QmlRotationAnimation
