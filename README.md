@@ -65,3 +65,8 @@ QmlRotationAnimation: Qml旋转箭头
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlRotationAnimation/show.gif?raw=true)
 
+
+QmlShowSideWindow: Qml弹出右侧信息弹窗
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlShowSideWindow/show.gif?raw=true)
+
