@@ -21,7 +21,7 @@ ApplicationWindow {
         height: 96
         anchors.centerIn: parent
         Image {
-            id: bug
+            id: sourceimage
             source: "qrc:/qt.png"
             sourceSize: Qt.size(parent.width, parent.height)
             smooth: true
@@ -39,8 +39,8 @@ ApplicationWindow {
         }
 
         OpacityMask {
-            anchors.fill: bug
-            source: bug
+            anchors.fill: sourceimage
+            source: sourceimage
             maskSource: mask
         }
     }
