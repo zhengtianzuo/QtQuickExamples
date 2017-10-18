@@ -75,3 +75,8 @@ QmlSign: Qml签名修改
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlSign/show.gif?raw=true)
 
+
+QmlSlidingMenu: Qml侧边滑动菜单
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlSlidingMenu/show.gif?raw=true)
+
