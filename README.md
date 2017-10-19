@@ -85,3 +85,6 @@ QmlStackView: Qml堆栈窗体
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlStackView/show.gif?raw=true)
 
+
+QmlTabBar: 
+
