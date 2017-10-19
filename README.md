@@ -80,3 +80,8 @@ QmlSlidingMenu: Qml侧边滑动菜单
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlSlidingMenu/show.gif?raw=true)
 
+
+QmlStackView: Qml堆栈窗体
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlStackView/show.gif?raw=true)
+
