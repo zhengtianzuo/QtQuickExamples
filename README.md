@@ -86,5 +86,7 @@ QmlStackView: Qml堆栈窗体
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlStackView/show.gif?raw=true)
 
 
-QmlTabBar: 
+QmlTabBar: Qml底部导航
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlTabBar/show.gif?raw=true)
 
