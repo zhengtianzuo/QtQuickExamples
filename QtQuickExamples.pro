@@ -22,3 +22,4 @@ SUBDIRS += QmlSign
 SUBDIRS += QmlSlidingMenu
 SUBDIRS += QmlStackView
 SUBDIRS += QmlTabBar
+SUBDIRS += QmlTableView
