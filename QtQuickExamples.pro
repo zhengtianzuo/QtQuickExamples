@@ -23,3 +23,4 @@ SUBDIRS += QmlSlidingMenu
 SUBDIRS += QmlStackView
 SUBDIRS += QmlTabBar
 SUBDIRS += QmlTableView
+SUBDIRS += QmlTextEditDrop

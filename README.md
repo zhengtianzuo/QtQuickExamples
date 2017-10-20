@@ -95,3 +95,8 @@ QmlTableView: QmlTableView
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlTableView/show.gif?raw=true)
 
+
+QmlTextEditDrop: QmlTextEdit接受拖放
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlTextEditDrop/show.gif?raw=true)
+
