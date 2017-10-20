@@ -100,3 +100,13 @@ QmlTextEditDrop: QmlTextEdit接受拖放
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlTextEditDrop/show.gif?raw=true)
 
+
+QmlTextEditScrollBar: QmlTextEdit带滚动条
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlTextEditScrollBar/show.gif?raw=true)
+
+
+QmlToggleButton: Qml选择开关
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlToggleButton/show.gif?raw=true)
+

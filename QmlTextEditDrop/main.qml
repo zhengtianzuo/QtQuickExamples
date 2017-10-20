@@ -11,13 +11,13 @@ import QtQuick.Layouts 1.0
 
 ApplicationWindow {
     visible: true
-    width: 640
-    height: 480
+    width: 400
+    height: 300
     title: qsTr("QmlTextEdit接受拖放")
 
     TextEdit{
         id: textEdit
-        height: 300
+        height: parent.height
         width: parent.width
         DropArea{
             anchors.fill: parent

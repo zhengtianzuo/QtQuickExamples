@@ -24,3 +24,5 @@ SUBDIRS += QmlStackView
 SUBDIRS += QmlTabBar
 SUBDIRS += QmlTableView
 SUBDIRS += QmlTextEditDrop
+SUBDIRS += QmlTextEditScrollBar
+SUBDIRS += QmlToggleButton
