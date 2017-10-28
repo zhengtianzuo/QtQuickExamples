@@ -28,4 +28,5 @@ SUBDIRS += QmlTextEditScrollBar
 SUBDIRS += QmlToggleButton
 SUBDIRS += QmlCircularProgress
 SUBDIRS += QmlFontList
+SUBDIRS += QmlFlipImage
 

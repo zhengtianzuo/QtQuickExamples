@@ -122,3 +122,8 @@ QmlFontList: Qml获取字体列表
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFontList/show.gif?raw=true)
 
+
+QmlFlipImage: Qml翻转效果
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFlipImage/show.gif?raw=true)
+
