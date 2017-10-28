@@ -26,3 +26,4 @@ SUBDIRS += QmlTableView
 SUBDIRS += QmlTextEditDrop
 SUBDIRS += QmlTextEditScrollBar
 SUBDIRS += QmlToggleButton
+SUBDIRS += QmlCircularProgress

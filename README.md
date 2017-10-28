@@ -112,3 +112,8 @@ QmlToggleButton: Qml选择开关
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlToggleButton/show.gif?raw=true)
 
+
+QmlCircularProgress: Qml圆形进度条
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCircularProgress/show.gif?raw=true)
+
