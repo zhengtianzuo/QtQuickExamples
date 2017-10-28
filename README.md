@@ -117,3 +117,8 @@ QmlCircularProgress: Qml圆形进度条
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCircularProgress/show.gif?raw=true)
 
+
+QmlFontList: Qml获取字体列表
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFontList/show.gif?raw=true)
+
