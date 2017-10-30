@@ -29,4 +29,4 @@ SUBDIRS += QmlToggleButton
 SUBDIRS += QmlCircularProgress
 SUBDIRS += QmlFontList
 SUBDIRS += QmlFlipImage
-
+SUBDIRS += QmlGrayImage

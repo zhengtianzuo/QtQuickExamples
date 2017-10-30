@@ -127,3 +127,8 @@ QmlFlipImage: Qml翻转效果
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFlipImage/show.gif?raw=true)
 
+
+QmlGrayImage: Qml图片转灰度
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlGrayImage/show.jpg?raw=true)
+
