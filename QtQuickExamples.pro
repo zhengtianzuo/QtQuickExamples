@@ -33,3 +33,4 @@ SUBDIRS += QmlGrayImage
 SUBDIRS += QmlProgress
 SUBDIRS += QmlWinExtras
 SUBDIRS += QmlCalendar
+SUBDIRS += QmlCanvasText

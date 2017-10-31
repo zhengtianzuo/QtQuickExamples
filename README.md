@@ -147,3 +147,8 @@ QmlCalendar:Qml日历
  
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCalendar/show.gif?raw=true)
 
+
+QmlCanvasText: QmlCanvas文字
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCanvasText/show.jpg?raw=true)
+
