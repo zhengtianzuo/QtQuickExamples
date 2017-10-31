@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.ico</file>
+		<file>QmlWinExtras.rc</file>
+    </qresource>
+</RCC>
+

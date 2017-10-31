@@ -1,0 +1,32 @@
+#include "winver.h"
+
+IDI_ICON1 ICON DISCARDABLE	"logo.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGS 0x0L
+ FILEFLAGSMASK 0x3fL
+ FILEOS 0x00040004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "CompanyName", "zhengtianzuo"
+            VALUE "FileDescription", "QmlWinExtras"
+            VALUE "FileVersion",     "1.0.0.0"
+            VALUE "InternalName",    "QmlWinExtras.exe"
+            VALUE "LegalCopyright", "Copyright (C) 2003-2103 CamelSoft Corporation"
+            VALUE "OriginalFilename","QmlWinExtras.exe"
+            VALUE "ProductName", "QmlWinExtras"
+            VALUE "ProductVersion",  "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0804, 1200
+    END
+END

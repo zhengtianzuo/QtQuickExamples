@@ -137,3 +137,8 @@ QmlProgress: Qml进度条
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlProgress/show.gif?raw=true)
 
+
+QmlWinExtras: QmlWinExtras
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlWinExtras/show.gif?raw=true)
+

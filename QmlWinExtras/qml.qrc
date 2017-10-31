@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Chat_FriendManagerG.svg</file>
+        <file>Chat_MsgRecordG.svg</file>
+        <file>Main_P2PChatG.svg</file>
+        <file>Mobile_FindG.svg</file>
+    </qresource>
+</RCC>
