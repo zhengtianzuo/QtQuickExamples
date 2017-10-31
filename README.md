@@ -132,3 +132,8 @@ QmlGrayImage: Qml图片转灰度
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlGrayImage/show.jpg?raw=true)
 
+
+QmlProgress: Qml进度条
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlProgress/show.gif?raw=true)
+

@@ -30,3 +30,4 @@ SUBDIRS += QmlCircularProgress
 SUBDIRS += QmlFontList
 SUBDIRS += QmlFlipImage
 SUBDIRS += QmlGrayImage
+SUBDIRS += QmlProgress
