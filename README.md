@@ -142,3 +142,8 @@ QmlWinExtras: QmlWinExtras
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlWinExtras/show.gif?raw=true)
 
+
+QmlCalendar:Qml日历
+ 
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCalendar/show.gif?raw=true)
+

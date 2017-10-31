@@ -32,3 +32,4 @@ SUBDIRS += QmlFlipImage
 SUBDIRS += QmlGrayImage
 SUBDIRS += QmlProgress
 SUBDIRS += QmlWinExtras
+SUBDIRS += QmlCalendar
