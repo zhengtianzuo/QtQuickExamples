@@ -157,3 +157,8 @@ QmlKey: Qml全局按键
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlKey/show.gif?raw=true)
 
+
+QmlLoader: QmlLoader
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlLoader/show.gif?raw=true)
+

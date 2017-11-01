@@ -35,3 +35,4 @@ SUBDIRS += QmlWinExtras
 SUBDIRS += QmlCalendar
 SUBDIRS += QmlCanvasText
 SUBDIRS += QmlKey
+SUBDIRS += QmlLoader
