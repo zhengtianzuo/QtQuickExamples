@@ -34,3 +34,4 @@ SUBDIRS += QmlProgress
 SUBDIRS += QmlWinExtras
 SUBDIRS += QmlCalendar
 SUBDIRS += QmlCanvasText
+SUBDIRS += QmlKey

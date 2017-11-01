@@ -152,3 +152,8 @@ QmlCanvasText: QmlCanvas文字
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCanvasText/show.jpg?raw=true)
 
+
+QmlKey: Qml全局按键
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlKey/show.gif?raw=true)
+
