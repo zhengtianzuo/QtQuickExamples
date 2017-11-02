@@ -36,3 +36,4 @@ SUBDIRS += QmlCalendar
 SUBDIRS += QmlCanvasText
 SUBDIRS += QmlKey
 SUBDIRS += QmlLoader
+SUBDIRS += QmlInvertedImage
