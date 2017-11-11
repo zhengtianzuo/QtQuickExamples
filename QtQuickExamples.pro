@@ -38,3 +38,4 @@ SUBDIRS += QmlKey
 SUBDIRS += QmlLoader
 SUBDIRS += QmlInvertedImage
 SUBDIRS += QmlFontAwesome
+SUBDIRS += QmlListSlidDelete

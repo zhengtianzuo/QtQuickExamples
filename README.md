@@ -173,3 +173,7 @@ QmlFontAwesome: Qml使用FontAwesome
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFontAwesome/show.jpg?raw=true)
 
 
+QmlListSlidDelete: Qml滑动删除
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlListSlidDelete/show.gif?raw=true)
+
