@@ -167,3 +167,9 @@ QmlInvertedImage: Qml倒影
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlInvertedImage/show.jpg?raw=true)
 
+
+QmlFontAwesome: Qml使用FontAwesome
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFontAwesome/show.jpg?raw=true)
+
+

@@ -37,3 +37,4 @@ SUBDIRS += QmlCanvasText
 SUBDIRS += QmlKey
 SUBDIRS += QmlLoader
 SUBDIRS += QmlInvertedImage
+SUBDIRS += QmlFontAwesome
