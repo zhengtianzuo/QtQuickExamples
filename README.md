@@ -182,3 +182,8 @@ QmlCircularProgressButton: Qml圆形进度按钮
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCircularProgressButton/show.gif?raw=true)
 
+
+QmlPageNavigation: Qml分页显示
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPageNavigation/show.gif?raw=true)
+
