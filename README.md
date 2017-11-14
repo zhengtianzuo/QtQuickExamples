@@ -177,3 +177,8 @@ QmlListSlidDelete: Qml滑动删除
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlListSlidDelete/show.gif?raw=true)
 
+
+QmlCircularProgressButton: Qml圆形进度按钮
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCircularProgressButton/show.gif?raw=true)
+

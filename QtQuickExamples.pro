@@ -39,3 +39,4 @@ SUBDIRS += QmlLoader
 SUBDIRS += QmlInvertedImage
 SUBDIRS += QmlFontAwesome
 SUBDIRS += QmlListSlidDelete
+SUBDIRS += QmlCircularProgressButton
