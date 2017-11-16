@@ -187,3 +187,8 @@ QmlPageNavigation: Qml分页显示
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlPageNavigation/show.gif?raw=true)
 
+
+QmlLanguage: Qml动态语言切换
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlLanguage/show.gif?raw=true)
+
