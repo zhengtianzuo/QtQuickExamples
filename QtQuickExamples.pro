@@ -41,3 +41,4 @@ SUBDIRS += QmlFontAwesome
 SUBDIRS += QmlListSlidDelete
 SUBDIRS += QmlCircularProgressButton
 SUBDIRS += QmlPageNavigation
+SUBDIRS += QmlUpDownRefresh
