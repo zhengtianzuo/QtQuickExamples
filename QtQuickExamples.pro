@@ -42,3 +42,4 @@ SUBDIRS += QmlListSlidDelete
 SUBDIRS += QmlCircularProgressButton
 SUBDIRS += QmlPageNavigation
 SUBDIRS += QmlUpDownRefresh
+SUBDIRS += QmlListViewDragDrop

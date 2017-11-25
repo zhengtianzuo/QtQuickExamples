@@ -196,3 +196,8 @@ QmlLanguage: Qml动态语言切换
 QmlUpDownRefresh: Qml上拉下拉刷新
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlUpDownRefresh/show.gif?raw=true)
+
+QmlListViewDragDrop: Qml列表项拖放
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlListViewDragDrop/show.gif?raw=true)
+
