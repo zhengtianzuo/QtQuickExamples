@@ -201,3 +201,8 @@ QmlListViewDragDrop: Qml列表项拖放
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlListViewDragDrop/show.gif?raw=true)
 
+
+QmlCanvasWaveProgress: Qml圆形波浪进度条
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCanvasWaveProgress/show.gif?raw=true)
+

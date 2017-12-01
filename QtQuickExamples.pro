@@ -43,3 +43,4 @@ SUBDIRS += QmlCircularProgressButton
 SUBDIRS += QmlPageNavigation
 SUBDIRS += QmlUpDownRefresh
 SUBDIRS += QmlListViewDragDrop
+SUBDIRS += QmlCanvasWaveProgress

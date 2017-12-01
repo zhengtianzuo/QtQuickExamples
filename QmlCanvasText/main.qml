@@ -43,7 +43,7 @@ ApplicationWindow {
 
     FontMetrics {
         id: fontMetrics
-        font.family: "Arial"
+        font.family: "Microsoft Yahei"
         font.pixelSize: 16
         font.italic: false
         font.bold: false
