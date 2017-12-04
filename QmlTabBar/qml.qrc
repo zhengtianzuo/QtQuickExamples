@@ -9,5 +9,6 @@
         <file>Chat_MsgRecordG.svg</file>
         <file>Main_P2PChatG.svg</file>
         <file>Mobile_FindG.svg</file>
+        <file>BaseTabBar.qml</file>
     </qresource>
 </RCC>
