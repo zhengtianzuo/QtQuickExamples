@@ -22,10 +22,10 @@ ApplicationWindow {
         height: 48
         width: parent.width
         Component.onCompleted: {
-            myModel.append({ "modelText": "消息", "modelColor": "#000000", "modelColorG": "#148014", "modelSrc": "qrc:/Chat_MsgRecord.svg", "modelSrcG": "qrc:/Chat_MsgRecordG.svg"})
-myModel.append({ modelText: "联系人"; modelColor: "#000000"; modelColorG: "#148014"; modelSrc: "qrc:/Chat_FriendManager.svg"; modelSrcG: "qrc:/Chat_FriendManagerG.svg";}
-//            ListElement { modelText: "发现"; modelColor: "#000000"; modelColorG: "#148014"; modelSrc: "qrc:/Mobile_Find.svg"; modelSrcG: "qrc:/Mobile_FindG.svg";}
-//            ListElement { modelText: "我"; modelColor: "#000000"; modelColorG: "#148014"; modelSrc: "qrc:/Main_P2PChat.svg"; modelSrcG: "qrc:/Main_P2PChatG.svg";}
+            myModel.append({ "modelText": "消息", "modelColor": "#000000", "modelColorG": "#148014", "modelSrc": "qrc:/images/Chat_MsgRecord.svg", "modelSrcG": "qrc:/images/Chat_MsgRecordG.svg"})
+            myModel.append({ "modelText": "联系人", "modelColor": "#000000", "modelColorG": "#148014", "modelSrc": "qrc:/images/Chat_FriendManager.svg", "modelSrcG": "qrc:/images/Chat_FriendManagerG.svg"})
+            myModel.append({ "modelText": "发现", "modelColor": "#000000", "modelColorG": "#148014", "modelSrc": "qrc:/images/Mobile_Find.svg", "modelSrcG": "qrc:/images/Mobile_FindG.svg"})
+            myModel.append({ "modelText": "我", "modelColor": "#000000", "modelColorG": "#148014", "modelSrc": "qrc:/images/Main_P2PChat.svg", "modelSrcG": "qrc:/images/Main_P2PChatG.svg"})
         }
     }
 
