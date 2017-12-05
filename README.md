@@ -206,3 +206,16 @@ QmlCanvasWaveProgress: Qml圆形波浪进度条
 
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCanvasWaveProgress/show.gif?raw=true)
 
+
+
+
+***
+#### **捐赠**
+#####捐赠名单:
+
+
+
+<img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/weixin.jpg?raw=true" width="50%" height="50%" /><img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/zhifubao.jpg?raw=true" width="50%" height="50%" />
+
+###### 觉得非常的内容还不错, 就请作者喝杯咖啡吧~~
+***
