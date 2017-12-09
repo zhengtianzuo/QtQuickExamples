@@ -207,6 +207,11 @@ QmlCanvasWaveProgress: Qml圆形波浪进度条
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlCanvasWaveProgress/show.gif?raw=true)
 
 
+QmlColorDialog: Qml选择颜色对话框
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlColorDialog/show.gif?raw=true)
+
+
 
 
 ***
