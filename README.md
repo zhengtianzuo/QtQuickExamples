@@ -217,6 +217,12 @@ QmlFileDialog: Qml文件对话框
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFileDialog/show.gif?raw=true)
 
 
+QmlFontDialog: Qml字体选择对话框
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFontDialog/show.gif?raw=true)
+
+
+
 
 
 ***

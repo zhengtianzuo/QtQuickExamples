@@ -46,4 +46,5 @@ SUBDIRS += QmlListViewDragDrop
 SUBDIRS += QmlCanvasWaveProgress
 SUBDIRS += QmlColorDialog
 SUBDIRS += QmlFileDialog
+SUBDIRS += QmlFontDialog
 
