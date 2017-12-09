@@ -212,6 +212,11 @@ QmlColorDialog: Qml选择颜色对话框
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlColorDialog/show.gif?raw=true)
 
 
+QmlFileDialog: Qml文件对话框
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFileDialog/show.gif?raw=true)
+
+
 
 
 ***
