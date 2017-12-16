@@ -47,4 +47,4 @@ SUBDIRS += QmlCanvasWaveProgress
 SUBDIRS += QmlColorDialog
 SUBDIRS += QmlFileDialog
 SUBDIRS += QmlFontDialog
-
+SUBDIRS += QmlChartView

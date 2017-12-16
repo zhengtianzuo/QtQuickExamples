@@ -222,6 +222,10 @@ QmlFontDialog: Qml字体选择对话框
 ![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlFontDialog/show.gif?raw=true)
 
 
+QmlChartView: Qml饼状图
+
+![](https://github.com/zhengtianzuo/QtQuickExamples/blob/master/QmlChartView/show.gif?raw=true)
+
 
 
 
