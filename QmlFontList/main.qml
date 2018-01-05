@@ -15,6 +15,7 @@ ApplicationWindow {
     width: 600
     height: 600
     title: qsTr("Qml获取字体列表")
+    color: "#AAAAAA"
 
     property string fontName: "Microsoft Yahei"
 
