@@ -17,8 +17,10 @@ Window{
     signal sClick(string sFontName);
 
     ListView{
-        id: comb
-        anchors.fill: parent
+        id: listView
+        height: contentHeight
+        width: parent.width - vbar.width
+        y: -vbar.position * listView.height
         model: Qt.fontFamilies()
         delegate: Item {
             height: 32
@@ -65,5 +67,16 @@ Window{
                 }
             }
         }
+    }
+    ScrollBar {
+        id: vbar
+        hoverEnabled: true
+        active: hovered || pressed
+        orientation: Qt.Vertical
+        size: parent.height / listView.height
+        width: 10
+        anchors.top: parent.top
+        anchors.right: parent.right
+        anchors.bottom: parent.bottom
     }
 }
