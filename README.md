@@ -5,6 +5,7 @@
 QtQuick相关的技术分享
 
 访问博客[CSDN博客](http://blog.csdn.net/zhengtianzuo06)
+<font color=#9ACD32>加入QQ群</font>![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/qq.png?raw=true): 199672080
 
 ![](https://img.shields.io/badge/%E7%89%88%E6%9D%83%E8%AE%B8%E5%8F%AF-MIT-orange.svg)
 ![](https://img.shields.io/badge/Qt-5.10-blue.svg)
