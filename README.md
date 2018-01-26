@@ -234,32 +234,15 @@ QmlChartView: Qml饼状图
 |QQ|278969898
 |主页|http://www.camelstudio.cn/
 |邮箱|camelsoft@163.com
+|博客|http://blog.csdn.net/zhengtianzuo06/
+|QQ群|199672080|![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/qqgroup.jpg?raw=true)
 
-访问博客[CSDN博客](http://blog.csdn.net/zhengtianzuo06)
-
-<font color=#9ACD32>加入QQ群</font>![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/qq.png?raw=true): 199672080
 
 
 
 
 ***
 #### **捐赠**
-##### 捐赠名单:
-mmann 支付宝 20元
-
-番茄12 微信 18元
-
-lokyes 微信 10元
-
-junge2 支付宝 10元
-
-青椒 支付宝 5元
-
-蓝色起源 微信 4元
-
-街头的小白 微信 1元
-
-
 <img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/weixin.jpg?raw=true" width="30%" height="30%" />           <img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/zhifubao.jpg?raw=true" width="30%" height="30%" />
 
 ###### 觉得分享的内容还不错, 就请作者喝杯咖啡吧~~
