@@ -25,7 +25,7 @@ ApplicationWindow {
         Drag.active: dragArea.drag.active;
         Drag.supportedActions: Qt.CopyAction;
         Drag.dragType: Drag.Automatic;
-        Drag.mimeData: {"text": text};
+        Drag.mimeData: {"text": text}
 
         MouseArea {
             id: dragArea;
@@ -74,7 +74,7 @@ ApplicationWindow {
         Drag.active: dragArea1.drag.active;
         Drag.supportedActions: Qt.CopyAction;
         Drag.dragType: Drag.Automatic;
-        Drag.mimeData: {"pic": source};
+        Drag.mimeData: {"pic": source}
 
         MouseArea {
             id: dragArea1;
